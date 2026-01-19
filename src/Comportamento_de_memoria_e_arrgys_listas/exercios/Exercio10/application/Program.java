@@ -21,7 +21,7 @@ public class Program {
         Aprovados[] aprovados = new Aprovados[n];
 
         for (int i = 0; i < n; i++) {
-            System.out.println("Digite nome, primeira e segunda nota do " + i + "o aluno:");
+            System.out.println("Digite nome, primeira e segunda nota do " + (i + 1) + "o aluno:");
             sc.nextLine();
             String nome = sc.nextLine();
             double nota1 = sc.nextDouble();
