@@ -25,7 +25,9 @@ public class Programa {
             String email = sc.nextLine();
             System.out.print("Quarto que voce deseja ? ");
             int quartos = sc.nextInt();
-            hotel[i] = new Hotel(nome , email);
+            Hotel hotel1 = new Hotel(nome , email);
+
+            hotel[quartos] = hotel1;
         }
 
         for (int i = 0; i < 10 ; i++) {

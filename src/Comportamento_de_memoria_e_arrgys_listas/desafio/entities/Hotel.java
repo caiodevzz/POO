@@ -27,5 +27,6 @@ public class Hotel {
 
     public String toString() {
         return nome + ", " + email;
+
     }
 }
