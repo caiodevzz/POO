@@ -1,4 +1,4 @@
-package exercios_por_fora.Exercios02.produto;
+package exercios_por_fora.Exercios02.entities;
 
 public class Pessoa {
     private String nome;

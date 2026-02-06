@@ -1,6 +1,6 @@
 package exercios_por_fora.Exercios02.Test;
 
-import exercios_por_fora.Exercios02.produto.produto;
+import exercios_por_fora.Exercios02.entities.produto;
 
 import java.util.Scanner;
 

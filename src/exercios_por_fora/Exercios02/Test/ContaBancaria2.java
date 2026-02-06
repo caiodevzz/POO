@@ -1,6 +1,6 @@
 package exercios_por_fora.Exercios02.Test;
 
-import exercios_por_fora.Exercios02.produto.ContaBancaria;
+import exercios_por_fora.Exercios02.entities.ContaBancaria;
 
 import java.util.Locale;
 import java.util.Scanner;
