@@ -1,7 +1,6 @@
 package Comportamento_de_memoria_e_arrgys_listas.exercios.Exercio09.application;
 
 import Comportamento_de_memoria_e_arrgys_listas.exercios.Exercio09.entities.Pessoa1;
-import exercios_por_fora.Pessoa;
 
 import java.util.Scanner;
 
